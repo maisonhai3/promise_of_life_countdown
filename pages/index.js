@@ -15,6 +15,8 @@ export default function Home() {
         <p className="description">
           That is a promise of <code>my life</code>!!
         </p>
+        <p>I working on a countdown timer to the wedding.</p>
+        <p>It's in-progress.</p>
       </main>
 
       <Footer />
