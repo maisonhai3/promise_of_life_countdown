@@ -17,6 +17,8 @@ export default function Home() {
         </p>
         <p>I working on a countdown timer to the wedding.</p>
         <p>It's in-progress.</p>
+
+        <Header title="But I am re-considering it right now." />
       </main>
 
       <Footer />
